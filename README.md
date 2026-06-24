@@ -1,16 +1,13 @@
-## Hi there 👋
+# Experience
 
-<!--
-**srinivasan-sharan/srinivasan-sharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make/break things now and then. hard to be good, better to be consistent 
 
-Here are some ideas to get you started:
+open source everything.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Currently Learning
+- data warehousing
+- ai that makes a data warehouse
+- ai that uses a data warehouse
+  
+trying to make something useful
