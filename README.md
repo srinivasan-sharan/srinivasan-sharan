@@ -1,4 +1,4 @@
-# Experience
+# ideology
 
 I make/break things now and then. hard to be good, better to be consistent 
 
